@@ -24,8 +24,6 @@
 html {
 	font-size: 62.5%;
 	box-sizing: border-box;
-	overflow: scroll;
-	overflow-x: hidden;
 }
 ::-webkit-scrollbar {
 	width: 0; /* Remove scrollbar space */
