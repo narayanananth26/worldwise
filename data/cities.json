@@ -37,18 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Raisinghnagar",
-      "countryName": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-07T01:25:46.549Z",
-      "notes": "test",
-      "position": {
-        "lat": "29.462719396153187",
-        "lng": "73.60603718308525"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Delhi",
       "countryName": "India",
       "emoji": "🇮🇳",
@@ -59,18 +47,6 @@
         "lng": "77.21288411218555"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "Thiruvananthapuram",
-      "countryName": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-21T01:35:59.000Z",
-      "notes": "visit",
-      "position": {
-        "lat": "8.664088845890326",
-        "lng": "76.84936523437501"
-      },
-      "id": 98443200
     }
   ]
 }
