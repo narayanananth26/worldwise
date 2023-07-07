@@ -126,9 +126,7 @@ function Form() {
 			</div>
 
 			<div className={styles.buttons}>
-				<Button type="primary" onClick={handleSubmit}>
-					Add
-				</Button>
+				<Button type="primary">Add</Button>
 				<ButtonBack />
 			</div>
 		</form>
